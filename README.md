@@ -40,7 +40,7 @@ My work focuses on optimizing complex systems—from **accelerating Quantum Key 
 | :--- | :--- | :--- |
 | **[Photonic Isling Machine (Self-Directed)](https://github.com/alanspace/Photonic_Computing)** | Architected an optical Ising machine using **Spatial Light Modulation (SLM)** to solve NP-hard combinatorial optimization problems. | `Python` `Opics` `Optimization` |
 | **[ML for QKD Optimization](https://github.com/alanspace/QKD_KeyRate_Parameter_Optimization)** | Designed a hybrid **JAX/PyTorch** pipeline for real-time parameter prediction in quantum networks, achieving a **~270x speedup** across 6,000 scenarios. | `JAX` `PyTorch` `Quantum` |
-| **[Autonomy in AI: Subjectivity](https://tinyurl.com/576zs4vc)** | Investigated the **simulation-reality gap** in LLM-powered humanoid robots and proposed accountability frameworks for autonomous agents. | `AI Safety` `LLMs` `Research` |
+| **[Autonomy in AI: Subjectivity](https://github.com/alanspace/Autonomy-in-AI-Research)** | Investigated the **simulation-reality gap** in LLM-powered humanoid robots and proposed accountability frameworks for autonomous agents. | `AI Safety` `LLMs` `Research` |
 | **[Nonlinear Dynamics & Chaos](https://github.com/alanspace/nonlinear-dynamics-chaos)** | First-principles derivation of nonlinear ODEs and automated measurement of the Feigenbaum constant ($δ = 4.67 \pm 0.08$). | `Physics` `Chaos Theory` |
 | **[Master Thesis: Secure Comm](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1796647&dswid=-1650)** | Analyzed **Beyond Pulse Position Modulation (BPPM)** for energy-efficient security, proving superior information density via large-scale simulations. | `Python` `Cryptography` |
 
@@ -81,7 +81,7 @@ _(Oct 2025 – Present)_
 *   Architecting an AI reasoning ecosystem or creative workflows.
 *   Finalist for the **KTH Innovation/SSE** pitch competition.
 
-#### **Technical Lead (Hackathon)** | Grant Seeker AI
+#### **Technical Lead (Hackathon)** | [Grant Seeker AI](https://tinyurl.com/576zs4vc)
 _(Oct 2025 – Present)_
 *   Designed a multi-agent ecosystem using **Google ADK & Gemini Flash**.
 *   Implemented sequential orchestration for automated proposal generation.
