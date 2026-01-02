@@ -12,8 +12,14 @@
     <a href="https://www.linkedin.com/in/shek-lun-leung-alan/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://alanspace.github.io/Alan_Portfolio_advanced/" target="_blank">
+    <a href="https://sprightly-strudel-846439.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://scholar.google.com/citations?user=Pt3JFcUAAAAJ&hl=en&oi=sra" target="_blank">
+      <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
+    </a>
+    <a href="https://orcid.org/0009-0006-2796-475X" target="_blank">
+      <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
     </a>
     <a href="https://simulationgap.substack.com" target="_blank">
       <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" />
@@ -76,7 +82,7 @@ My work focuses on optimizing complex systems—from **accelerating Quantum Key 
 
 ## 💼 Leadership & Experience
 
-#### **Technical Director** | [DreamToDone](https://dreamtodone.com)
+#### **Technical Director** | [DreamToDone](https://www.linkedin.com/company/dream-to-done)
 _(Oct 2025 – Present)_
 *   Architecting an AI reasoning ecosystem or creative workflows.
 *   Finalist for the **KTH Innovation/SSE** pitch competition.
