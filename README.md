@@ -44,11 +44,14 @@ My work focuses on optimizing complex systems—from **accelerating Quantum Key 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Photonic Isling Machine (Self-Directed)](https://github.com/alanspace/Photonic_Computing)** | Architected an optical Ising machine using **Spatial Light Modulation (SLM)** to solve NP-hard combinatorial optimization problems. | `Python` `Opics` `Optimization` |
+| **[Photonic Ising Machine (Self-Directed)](https://github.com/alanspace/Photonic_Computing)** | Architected an optical Ising machine using **Spatial Light Modulation (SLM)** to solve NP-hard combinatorial optimization problems. | `Python` `Opics` `Optimization` |
 | **[ML for QKD Optimization](https://github.com/alanspace/QKD_KeyRate_Parameter_Optimization)** | Designed a hybrid **JAX/PyTorch** pipeline for real-time parameter prediction in quantum networks, achieving a **~270x speedup** across 6,000 scenarios. | `JAX` `PyTorch` `Quantum` |
 | **[Autonomy in AI: Subjectivity](https://github.com/alanspace/Autonomy-in-AI-Research)** | Investigated the **simulation-reality gap** in LLM-powered humanoid robots and proposed accountability frameworks for autonomous agents. | `AI Safety` `LLMs` `Research` |
+| **[Post-Quantum Cryptography](https://github.com/alanspace/Post_Quantum_Cryptography)** | Implemented and analyzed **Lattice-based cryptography (Kyber/Dilithium)** to secure communications against future quantum computer attacks. | `Cryptography` `Python` `Security` |
+| **[Small Language Model (SLM)](https://github.com/alanspace/Small_Language_Model)** | Built and fine-tuned lightweight language models for specialized reasoning tasks, focusing on efficiency and low-resource deployment. | `LLMs` `PyTorch` `Transformer` |
+| **[Numerical Analysis of Glacier Flow](https://github.com/alanspace/picard-fem-glacier-flow)** | Developed a **Non-Linear 2D simulation** of the Arolla Glacier using **FEniCSx**, solving non-Newtonian fluid dynamics with Picard iterations. | `FEniCSx` `FEM` `Physics` |
+| **[Qiskit Certification Examples](https://github.com/alanspace/qiskit_certification_examples)** | Comprehensive notebooks and tutorials for the **IBM Qiskit Developer Certification**, focusing on primitive migration and circuit mechanics. | `Qiskit` `Education` `Quantum` |
 | **[Nonlinear Dynamics & Chaos](https://github.com/alanspace/nonlinear-dynamics-chaos)** | First-principles derivation of nonlinear ODEs and automated measurement of the Feigenbaum constant ($δ = 4.67 \pm 0.08$). | `Physics` `Chaos Theory` |
-| **[Master Thesis: Secure Comm](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1796647&dswid=-1650)** | Analyzed **Beyond Pulse Position Modulation (BPPM)** for energy-efficient security, proving superior information density via large-scale simulations. | `Python` `Cryptography` |
 
 ---
 
