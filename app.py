@@ -187,6 +187,18 @@ st.write("Bridging the gap between theoretical physics and empirical AI implemen
 
 st.markdown("""
 <div class="project-grid">
+<!-- Project 0 -->
+<div class="project-card">
+<div class="project-title">🧠 <a href="https://github.com/alanspace/Explainable-Brain-MRI" target="_blank">Explainable Brain MRI</a></div>
+<div class="project-desc">
+<ul>
+<li>Clinical-grade tumor classification via <strong>Grad-CAM++</strong> visual explanations.</li>
+<li>Integrated <strong>Gemini 1.5 Pro</strong> for automated radiologist reporting and verification.</li>
+<li>Interactive <strong>Streamlit</strong> deployment for real-time inference and XAI visualization.</li>
+</ul>
+</div>
+</div>
+
 <!-- Project 1 -->
 <div class="project-card">
 <div class="project-title">🛡️ <a href="https://substack.com/inbox/post/182663178?r=73jdjw&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true&triedRedirect=true" target="_blank">Autonomy in AI: Subjectivity</a></div>

@@ -44,6 +44,7 @@ My work focuses on optimizing complex systems—from **accelerating Quantum Key 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[Explainable Brain MRI](https://github.com/alanspace/Explainable-Brain-MRI)** | Clinical-grade tumor classification using **Grad-CAM++** and **Gemini 1.5 Pro** for automated radiologist reporting and visual verification. | `PyTorch` `Grad-CAM++` `Gemini AI` |
 | **[Photonic Ising Machine (Self-Directed)](https://github.com/alanspace/Photonic_Computing)** | Architected an optical Ising machine using **Spatial Light Modulation (SLM)** to solve NP-hard combinatorial optimization problems. | `Python` `Opics` `Optimization` |
 | **[ML for QKD Optimization](https://github.com/alanspace/QKD_KeyRate_Parameter_Optimization)** | Designed a hybrid **JAX/PyTorch** pipeline for real-time parameter prediction in quantum networks, achieving a **~270x speedup** across 6,000 scenarios. | `JAX` `PyTorch` `Quantum` |
 | **[Autonomy in AI: Subjectivity](https://github.com/alanspace/Autonomy-in-AI-Research)** | Investigated the **simulation-reality gap** in LLM-powered humanoid robots and proposed accountability frameworks for autonomous agents. | `AI Safety` `LLMs` `Research` |
